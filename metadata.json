@@ -1,0 +1,8 @@
+{
+  "name": "Remix: user",
+  "description": "A modern property maintenance application featuring AI-powered damage recognition and streamlined work order management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
